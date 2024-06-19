@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34729.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "极角坐标转换为直坐标", "极角坐标转换为直坐标\极角坐标转换为直坐标.csproj", "{3C999898-6FCF-4EB9-BFBE-18E903EBC29E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "出租车轨迹计算", "出租车轨迹计算\出租车轨迹计算.csproj", "{FC787C14-F8B1-461E-B1F9-010C1E4890B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{2C68C668-7BB6-4EC0-A1E3-D3CFD1E0635F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C999898-6FCF-4EB9-BFBE-18E903EBC29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C999898-6FCF-4EB9-BFBE-18E903EBC29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C999898-6FCF-4EB9-BFBE-18E903EBC29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C999898-6FCF-4EB9-BFBE-18E903EBC29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC787C14-F8B1-461E-B1F9-010C1E4890B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC787C14-F8B1-461E-B1F9-010C1E4890B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC787C14-F8B1-461E-B1F9-010C1E4890B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC787C14-F8B1-461E-B1F9-010C1E4890B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C68C668-7BB6-4EC0-A1E3-D3CFD1E0635F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C68C668-7BB6-4EC0-A1E3-D3CFD1E0635F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C68C668-7BB6-4EC0-A1E3-D3CFD1E0635F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C68C668-7BB6-4EC0-A1E3-D3CFD1E0635F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0778E100-6D23-4A37-884D-462B94187149}
+	EndGlobalSection
+EndGlobal
